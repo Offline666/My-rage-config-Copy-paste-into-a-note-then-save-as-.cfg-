@@ -2,7 +2,7 @@
 My rage config (Copy paste into a note, then save as .cfg)
 
 
-`{
+´´´{
 "Aimbot": [
 {
 "Bone": 2,
@@ -737,4 +737,4 @@ My rage config (Copy paste into a note, then save as .cfg)
 "Zoom": true,
 "Zoom key": 39
 }
-}`
+}´´´
